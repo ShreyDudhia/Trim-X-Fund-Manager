@@ -3,8 +3,8 @@ Contains documentation for FinTech Project 3
 
 ## Initial Outcomes of Project:
 - Terms and Conditions Smart Contract
-- Lex
-  - Use Lex to ask user set of questions to recommend trading bots
+- Lex/HTML Front End
+  - Use Lex or HTML front end to ask user set of questions to recommend trading bots
   - Host service on website?
 - Trading Bot
   - Automated trading bot that automatically trades on the entry/ exit triggers
