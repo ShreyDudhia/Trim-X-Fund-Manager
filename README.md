@@ -1,14 +1,14 @@
 # FinTech Project 3 (Team 1)
-Contains documentation for FinTech Project 3
+In this project we discuss how to use smart contracts to leverage an automated system that serves as a trading platform.
 
 ## Initial Outcomes of Project:
 - Terms and Conditions Smart Contract
 - Lex/HTML Front End
   - Use Lex or HTML front end to ask user set of questions to recommend trading bots
-  - Host service on website?
+  - Host service on website.
 - Trading Bot
   - Automated trading bot that automatically trades on the entry/ exit triggers
-  - Will figure out the indicators and criteria?
+  - Will figure out the indicators and criteria.
   - 3 Bots Minimum; more can be made
   - Possible Brokers to use: Alpaca, Oanda(Forex)
 - Contract Rating Systems
