@@ -8,7 +8,6 @@ In this project we discuss how to use smart contracts to leverage an automated s
   - Host service on website.
 - Trading Bot
   - Automated trading bot that automatically trades on the entry/ exit triggers
-  - Will figure out the indicators and criteria.
   - 3 Bots Minimum; more can be made
   - Possible Brokers to use: Alpaca, Oanda(Forex)
 - Contract Rating Systems
