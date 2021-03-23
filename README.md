@@ -1,4 +1,4 @@
-# FinTech Project 3 (Team 1)
+# Trim X - Fund Manager
 In this project we discuss how to use smart contracts to leverage an automated system that serves as a trading platform.
 
 ## Initial Outcomes of Project:
