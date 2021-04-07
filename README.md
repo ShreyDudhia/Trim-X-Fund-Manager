@@ -1,7 +1,7 @@
 # Trim X - Fund Manager
-In this project we discuss how to use smart contracts to leverage an automated system that serves as a trading platform.
+In this project, we discuss how to use smart contracts to leverage an automated system that serves as a trading platform.
 
-## Initial Outcomes of Project:
+## Outcomes of Project:
 - Terms and Conditions Smart Contract
 - Lex/HTML Front End
   - Use Lex or HTML front end to ask user set of questions to recommend trading bots
@@ -15,7 +15,7 @@ In this project we discuss how to use smart contracts to leverage an automated s
   - Return performance
 
 
-## Initial List of Possible Trading Indicators:
+## List of Possible Trading Indicators:
 1. Moving average (MA)
 2. Exponential moving average (EMA)
 3. Stochastic oscillator
